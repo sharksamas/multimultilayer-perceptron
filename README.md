@@ -1,0 +1,2 @@
+# multimultilayer-perceptron
+基于神经网络的多层感知机原理进行手写数字的识别
